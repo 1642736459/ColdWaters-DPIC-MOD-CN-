@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-3D海王
+AircraftDescriptiveName=SH-3D海王直升机
+History=双引擎反潜直升机，服役于美国海军和其他多国，并授权给意大利、日本、英国自行制造，民用版是西科斯基S-61

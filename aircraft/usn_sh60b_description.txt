@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-60B海鹰
+AircraftDescriptiveName=SH-60B海鹰直升机
+History=美国西科斯基飞机公司在上个世纪七十年代以西科斯基S-70直升机和UH-60通用直升机为基础研制的海上舰载多任务直升机 

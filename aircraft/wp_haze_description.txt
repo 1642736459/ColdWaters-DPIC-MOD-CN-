@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=米-14PL“烟雾-A”
+AircraftDescriptiveName=米里 米-14PL“烟雾-A”
+History=米-14是成功的米-8“河马”通用直升机的海军版本。米-14能在水上迫降，但没有参与航母行动的能力，必须从陆地上起飞。其他方面，“烟雾-A”的设备、武器和行动能力和卡-25“激素”非常相似。

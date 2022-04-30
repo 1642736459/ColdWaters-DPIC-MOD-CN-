@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=运-8X
+AircraftDescriptiveName=陕西 运-8X
+History=陕西运-8是中国版的苏联安东诺夫安-12“幼狐”运输机。它大体上与美国的C-130相当，并由多种衍生型号，比如这种高性能海上巡逻机，装备了海面搜索雷达、声纳浮标和制导鱼雷。

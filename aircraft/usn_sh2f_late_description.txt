@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-2F“海妖”
+AircraftDescriptiveName=卡曼SH-2F“海妖”
+History=“海妖”最初的设计定位是海上通用直升机，与“休伊”类似。但由于无人驾驶反潜直升机项目的失败，美军护卫舰没有远距离反潜能力，“海妖”被重新定位为轻型空中多用途系统，配合SQS-26舰载声呐的大范围侦察，拥有极大提升的反潜能力

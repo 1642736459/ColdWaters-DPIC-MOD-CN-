@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=P-3C巡逻机
+AircraftDescriptiveName=P-3C巡逻机
+History=上个世纪五十年代末美国海军研制的四发涡轮螺旋桨多用途海上巡逻机

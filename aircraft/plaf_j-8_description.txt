@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+AircraftName=歼-8
+AircraftDescriptiveName=中国歼-8
+History=中国在20世纪60年代开始设计研制的双发高空高速截击战斗机，是中国空军和海军航空兵20世纪80年代至21世纪初期的主力战斗机种之一，正逐步退役，被歼-10和歼-11所取代
