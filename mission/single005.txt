@@ -1,0 +1,6 @@
+Image=campaign/images/Loadscreens/29-7542845-img-20190529-104001.jpg
+MissionLocation=太平洋北部海域
+Briefing=单舰激战俄国航空母舰战斗群
+Briefing=
+Briefing=主要目标：
+Briefing=击沉敌方旗舰航空母舰

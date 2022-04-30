@@ -1,0 +1,14 @@
+Image=campaign/images/cuban missiles
+MissionLocation=北大西洋北部
+Briefing=埃塞克斯号被苏联潜艇用鱼雷击沉
+Briefing=所有的谈判方法都失败了
+Briefing=默认所有苏联船只都是敌对的
+Briefing=此刻起对他们毫不手软
+Briefing=
+Briefing=主要目标:
+Briefing=击沉所有敌船
+
+
+
+
+

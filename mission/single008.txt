@@ -1,0 +1,8 @@
+Image=campaign/images/pact ssbn
+MissionLocation=冰岛附近海域
+Briefing=你的台风级红色十月号战略核潜艇准备变节
+Briefing=投身自由的美利坚国。但你的苏维埃母国是不会答应的
+Briefing=重重昔日的友舰正在围剿你，含泪干掉他们
+Briefing=
+Briefing=主要目标：
+Briefing=务必逃脱

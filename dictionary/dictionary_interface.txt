@@ -1,0 +1,595 @@
+﻿[MAIN MENU]
+Training=训练任务
+SingleMission=单项战斗
+Campaign=大型战役
+UnitReference=单位介绍
+Options=选项设置
+Credits=制作组
+Quit=退出
+
+=============================================================
+[MOD ADDITION]
+QuickMission=自定义战斗
+
+
+January=一月
+February=二月
+March=三月
+April=四月
+May=五月
+June=六月
+July=七月
+August=八月
+September=九月
+October=十月
+November=冬月
+December=腊月
+
+Mile=n. mi
+SubsystemDiesel=核心轮机
+DieselSpace=轮机区
+TubeStores=发射管
+PrestigeCostNoRank=Current Prestige: <PRESTIGE>                        Prestige needed: <PRESTIGE_COST>
+PrestigeCost=<size::24>Current Prestige: <PRESTIGE>                    Prestige needed: <PRESTIGE_COST> <color::<RANKMET>>    Rank required: <REQUIREDRANK></color></size>
+PrestigeInsufficient=Insufficient Prestige to command <DESIGNATION> <VESSELCLASS>
+RankInsufficient=Insufficient rank to command <DESIGNATION> <VESSELCLASS>
+PrestigeCurrent=Prestige: <CURRENTPRESTIGE>
+PrestigeForMission=Prestige earned: <PRESTIGEFORMISSION>\nPrestige: <CURRENTPRESTIGE>
+PrestigeChangeSub=变换舰艇
+PrestigeTransferCost=File transfer request? \n(- <PRESTIGECOST> prestige)
+PrestigeTransferNotEnough=Not enough prestige.
+PrestigeTransferFlavor=\n<b>TRANSFER REQUEST</b>\n\nI, <PLAYERNAME>, request to be relinquished of command of <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> and transferred to another vessel.\n\n\n--------------------------------------------------\n\n<DATE>			<PLAYERNAME>\n
+
+PrestigeChangeMission=重设任务
+PrestigeChangeMissionCost=Fill report? \n(- <MISSIONCOST> prestige)
+PrestigeChangeMissionFlavor=\n<b>REQUEST</b>\n\n\nDue to current circumstances <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL> <PLAYERVESSELNAME> will not be operationally effective on the assigned tasking. Request another unit is assigned and <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL> <PLAYERVESSELNAME> is retasked.\n\n--------------------------------------------------\n\n<DATE>			<PLAYERNAME>\n
+
+PrestigeStatistics=Prestige:
+PrestigeForMissionWin=Prestige for mission completion: +<PRESTIGE_VALUE>
+PrestigeForMissionFail=Prestige for failure: -<PRESTIGE_VALUE>
+PrestigeForVessel=Bonus for commanding <PLAYERVESSELDESIGNATION> <PLAYERVESSELCLASS>: +<PRESTIGE_VALUE>
+
+ReferenceActiveRange=主动式搜索距离
+ReferenceTorpedoMaxDepth=最大深度
+ReferenceWireGuided=导线控制
+ReferencePayload=有效载荷参数:
+ReferenceMinRange=最小距离
+//Yes, "at" cause "at xxxm depth"
+ReferenceOn=: 
+ReferenceType=类型:
+ReferenceTorpedoNumbers=发射管武器：
+ReferenceSelfNoise=噪声：
+ReferenceWarhead=杀伤力:
+ReferenceSensorSensitivity=灵敏度
+ReferenceAnechoicCoating=消声涂层
+ReferenceNavalGunsAbb=火炮
+ReferenceShellNumbers=
+ReferenceShells=炮弹
+ReferenceRBUAbb=火箭
+ReferenceRBUSalvos=组
+ReferenceRBUSalvosAbb=salv.
+ReferenceGunRange=火炮射程
+ReferenceSAMRange=防空导弹射程
+ReferenceAutoSAMRange=第二防空导弹射程
+
+Commander=指挥
+
+COM NORTHERN FLEET=COM NORTHERN FLEET
+GLAVCOM VMF=GLAVCOM VMF
+
+COMSUBLANT=COMSUBLANT
+CINCLANTFLT=CINCLANTFLT
+COMSUBPAC=COMSUBPAC
+CINCPACFLT=CINCPACFLT
+
+COM PACIFIC FLEET=COM PACIFIC FLEET
+CICPLAN=CICPLAN
+
+//Пока не работает. Может быть когда-нибудь..
+//less than 300ft, less than 500, less than 750, less than 1000, более 1000
+//less than 91m, less than 152, less than 228, less than 305, более 305
+[WATERDEPTH]
+DepthVeryShallow=Very Shallow
+DepthShallow=Shallow
+DepthModerate=Moderate
+DepthDeep=Deep
+DepthVeryDeep=Very Deep
+
+------------------------------ [EpicMod options] ------------------------------
+Language=文字
+MetricSystem=米制单位
+Revert=还原
+
+ReducedVisibility=降低能见度
+
+CrewVoiceLanguage=语音
+Russian=俄语
+
+DebugLevel=调试级别：
+DevMode=模组设置
+
+ModSettings=模组
+OverrideFog=覆盖背景灰度调试
+LogCampaign=战斗日志
+LogCombat=战役日志
+ExtendedCombatLog=拓展战役日志
+UninstallText=The mod's folder will be deleted, the original game code will be restored from a backup, and options.txt will be deleted and re-created to avoid a crash. This will remove your settings.\n\nWould you like to continue?
+
+ForceReload=强制重新加载
+
+Delete_Epic_Mod=删除EPIC模组
+Cancel=取消
+
+
+
+DynamicDepthDarkening=动态距离设置
+DynamicDepthDarkeningDesc=Dynamic depth darkening. Reduction of water visibility with depth
+CombatDistanceIncreace=所有舰艇战斗初始距离增加
+CombatDistanceIncreaceDesc=Distance that player will be moved away from enemy upon entering combat by pressing "All hands man Battlestations". "Close to" button is not affected. Works always.
+CombatDistanceIncreaceSurf=水面舰只战斗距离再增加
+CombatDistanceIncreaceSurfDesc=Surface combat spawn distance increaced by flat amount. Works only when player controls surface ship, and enemy have surface ships too. Expands previous option.
+
+ShowWakebubles=地图显示标记点
+ShowWakebublesDesc=Show Wakebubles Desc
+SeeAlso=Coming Soon:
+DebugLevel=Debug Level
+ForceReload=Force Database Reload
+DevMode=Developer Mode
+OverrideBackground=覆盖展示厅背景
+LogCombat=Log Combat
+TruthIsOutThere=真实模式
+LogCampaign=Log Campaign
+ExtendedCombatLog=Extended Combat Log
+------------------------------ [EpicMod keys] ------------------------------
+Increase Depth=增加深度
+Decrease Depth=减小深度
+Increase Depth Precise=增加深度10英尺
+Decrease Depth Precise=减小深度10英尺
+Increase Depth Quick=增加深度100米
+Decrease Depth Quick=减小深度100米
+Toggle Towed=拖曳阵
+Previous Contact=切换敌目标
+Previous Tube=切换发射管
+Stop Time Compression=停止时间压缩
+Camera To Bearing=摄像方位
+Skip Mission=跳过任务
+Toggle Guns=开炮/停炮
+Toggle RBU=反潜火箭
+Deploy Chaff=干扰箔条
+Place NavMarker=地图设置路径
+Place NavMarkerALT=地图设置路径
+Delete All NavMarkers=删除地图设置路径
+Fire SAM=发射防空导弹
+==============================================================
+
+[GENERAL]
+Back=返回
+Start=开始
+Accept=接受
+Random=随机
+Help=帮助
+Load=加载
+Save=保存
+Delete=删除
+No=否
+Yes=是
+Labels=标签
+Menu=菜单
+Hours=时
+Loading=载入
+LoadingWeapon=载入武器
+LoadingVesselData=载入舰艇
+
+[BRIEFINGS]
+InTheVicinityOf=当前位于
+DockedAtPort=停泊在<PLAYERPORT>
+StoresStatus=已全副武装
+StoresStatusNeg=可以装载武器
+SystemsStatus=所有系统正常运转
+SystemsStatusNeg=需要修理
+LeaveCombatNeg=无
+LeaveCombatMissionNeg=未
+LeaveCombatVessels=船只在附近
+LeaveCombatWeapons=武器在附近
+LeaveCombatAircraft=飞机在附近
+LeaveCombatFlooding=进水
+LeaveCombatInsertion=特种部队<MISSIONSTATUS>部署
+LeaveCombatLandStrike=对地打击任务<MISSIONSTATUS>完成，进度<LANDSTRIKESTATUS>
+NearDeploymentZone=任务部署区域在附近。
+
+//MissionWeaponsNeg=该任务装载需要<NUMBER>个<WEAPON>才可进行。
+//CommandoNeg=该任务需要装载一支海豹突击队才可进行。
+RepairTime=修理时间
+Minutes=分钟
+Hours=小时
+
+[OTHER]
+Posthumously=追
+NavyPrefixUSS=美国军舰
+SUBMARINE=舰艇
+WARSHIP=水面舰艇
+
+[HEADINGS]
+TrainingMissionHeader=训练模式
+SingleMissionHeader=单项任务
+UnitReferenceHeader=单位介绍
+SelectVesselHeader=选择船只
+BriefingHeader=简报
+OrdersHeader=任务目标
+CampaignHeader=战役
+NewCampaignHeader=新战役
+LoadCampaignHeader=载入战役
+OptionsHeader=设置
+IncomingMessageHeader=新消息
+CreditsHeader=开发者
+
+[COMMANDS]
+Battlestations=全员就位
+AttemptClosure=初始距离：
+ContinueCourse=继续航行
+Loadout=武器装载
+DamageControl=损管控制
+VesselStatus=状态报告
+RearmRepair=武器库和损管
+ReviewOrders=查看任务目标
+AbandonShip=弃船
+LeavePort=起锚，出发！
+HoursInPort=港内时间
+ExitMission=离开战斗
+QuitMission=退出任务
+
+[HUD]
+ConditionsTab=海况
+SignatureTab=信号探测
+StoresTab=武器
+DamageControlTab=损害管制
+Course=航向
+Speed=航速
+Depth=深度
+Rudder=垂直舵
+Planes=水平舵
+Ballast=压载舱
+Bearing=方位
+Knot=节
+Feet=英尺
+Metre=米
+Range=距离
+KiloYard=千码
+Kilometer=千米
+Solution=解算
+Percentage=%
+WeaponData=武器数据
+RangeToEnable=路径
+TimeToRun=时间
+AmbientNoise=环境噪声
+Decibels=分贝
+SurfaceDuct=表面波导：
+Layer=温跃层
+Floor=海床
+Contact=接触信息
+Offline=离线
+SignalStrength=信号强度
+OwnShip=本舰
+SensorComparison=传感器对比
+Profile=声纹档案：
+DepthGauge=0\n100\n200\n300\n400\n500\n600\n700\n800\n900\n1000
+LoadWeapon=装载
+UnloadWeapon=卸载
+LoadCommando=装载特种部队
+UnloadCommando=卸载特种部队
+NoisemakerStores=噪音产生器
+NoContact=无目标
+VerticalLaunchSystem=垂直发射系统:
+VerticalLaunchSystemAbb=垂发
+HullStatus=船体：
+Left=左
+Right=右
+TorpedoRoom=鱼雷舱
+ControlRoom=控制舱
+ReactorSpace=核心舱
+EngineRoom=引擎舱
+MachinerySpace=机舱
+
+SonarContact=Sierra
+RadarContact=Romeo
+VisualContact=Victor
+ESMContact=Echo
+MultipleContact=Master
+
+SET SPEED=航速调节
+HELM ORDERS=车钟
+PLOT CSE=标记航向
+SET DEPTH=深度调节
+DIVE ORDERS=潜深指令
+E. BLOW=紧急上浮
+MASTS=桅杆
+ACTIVE=主动声呐
+DECOY=诱饵
+ESM=电子支援措施
+DETECTION THRESHOLD=侦测阈值
+LLTV=微光电视
+MARK=标记
+WIRE CONTROL=导线控制
+GUIDANCE=制导
+MANUAL CTRL=手动控制
+LOAD WEAPON=装载武器
+LOAD SPEC OPS=装载特种部队
+WIRES=导线
+
+[ACTION REPORT]
+ActionReportSunk=沉没
+ActionReportDamaged=受损
+ActionReportEscaped=逃脱
+ActionReportUndetected=未被侦测
+ActionReportNone=无
+ActionReportLost=在战斗中损失
+ActionReportLostAllHands=全军覆没
+ActionReportHowSunk=原因：
+ActionReportImplosion=内爆
+ActionReportCollision=撞击
+ActionReportScuttled=自沉
+
+[CAMPAIGN]
+SaveFileName=存档名：
+CommanderName=指挥官姓名：
+DeleteSaveFile= 确认删除存档：<FILENAME>吗?
+SaveExists=该存档已存在，确认覆盖?
+Statistics=概要
+OpenBriefing=简报
+
+[UNIT REFERENCE]
+ReferenceDimensions=数据
+ReferenceTons=吨
+ReferenceMetre=米
+ReferenceKnot=节
+ReferenceFeet=英尺
+ReferenceCrew=乘员
+ReferenceDefensive=防御型武器
+Reference30mmCIWS=近防炮
+ReferenceNone=无
+ReferenceOffensive=攻击型武器
+ReferenceMissiles=导弹
+ReferenceDecoys=诱饵
+ReferenceTorpedoes=鱼雷
+ReferenceSensors=传感器
+ReferenceNavRADAR=仅有导航雷达
+ReferenceSearchRADAR=搜索雷达,电子支援措施
+ReferenceMastMounted=桅杆式
+ReferenceSonarBoth=主动与被动
+ReferenceSonarActive=主动
+ReferenceSonarPassive=被动
+ReferenceSonar=声呐
+ReferenceRadar=雷达
+ReferenceActive=主动声呐
+ReferencePassive=被动声呐
+ReferenceTowed=拖曳式声呐
+ReferenceHullMounted=船体式声呐
+ReferenceTowedArray=拖曳式声呐
+ReferenceDipping=吊放式声呐
+ReferenceSonobuoys=声呐浮标
+ReferenceAircraft=飞机
+ReferenceNotes=简介
+ReferenceKilogram=千克
+ReferenceYard=码
+ReferenceRange=射程
+ReferenceMaxSpeed=最大速度
+ReferenceSeekerRange=搜寻范围
+ReferenceAt=速度
+FrequencyVeryLow=甚低
+FrequencyLow=低
+FrequencyMedium=中
+FrequencyHigh=高
+Frequency=频
+Frequencies=频
+ReferenceVeryQuiet=非常安静
+ReferenceSemiQuiet=比较安静
+ReferenceQuiet=安静
+ReferenceSemiNoisy=噪音较大
+ReferenceNoisy=噪音大
+ReferenceVeryNoisy=噪音很大
+FrequencyAbbreviated=频
+FrequencyAbbreviatedVL=甚低
+FrequencyAbbreviatedL=低
+FrequencyAbbreviatedM=中
+FrequencyAbbreviatedH=高
+ReferenceTestDepth=测试深度：
+ReferenceWires=导线数量：
+
+[Sea States]
+Calm=无风
+LightAir=一级风
+LightBreeze=二级风
+GentleBreeze=三级风
+ModerateBreeze=四级风
+FreshBreeze=五级风
+StrongBreeze=六级风
+HighWind=超强风
+
+[Weather]
+Clear=晴朗
+Scattered=零星小雨
+Broken=阴晴不定
+Overcast=多云
+Rain=降雨
+Storm=风暴
+Snow=降雪
+SnowStorm=暴风雪
+
+[Strength Types]
+ZeroStrength=无
+VeryWeak=极弱的
+Weak=弱的
+Moderate=中等的
+Strong=强的
+VeryStrong=极强的
+
+[ERROR]
+FatalError==FATAL ERROR:
+
+[OPTIONS]
+GameSettings=游戏
+Controls=控制
+VideoSettings=视频
+AudioSettings=音频
+DefaultControls=恢复默认键位
+DefaultCommanderName=默认指挥官姓名：
+Difficulty=难度
+Easy=简单
+Normal=普通
+Hard=困难
+Elite=精英
+//WorldScale=Distance Scale
+WorldScale=文字：
+Scale1=1:1
+Scale2=1:2
+Scale3=1:3
+Scale4=1:4
+//SpeedMultiplier=Speed Multiplier
+SpeedMultiplier=语音：
+HideUnclassified=隐藏低解算值目标
+Tooltips=操作提示
+
+HUDSize=HUD大小
+AutoSave=自动保存
+//DisableIronman=关闭铁人模式
+DisableIronman=米制单位
+PlayerMarker=玩家标记
+NonMetricUnits=英制单位
+EventCamera=事件视角
+InvertMouse=反向视角转动
+FullScreen=全屏显示
+Resolution=分辨率
+Shadows=阴影效果
+VSync=垂直同步
+DetailedOcean=海洋细节
+Terrain=地形
+Trees=植被
+UnderwaterParticles=水下粒子
+AntiAliasing=抗锯齿
+Off=关
+2x=2x
+4x=4x
+8x=8x
+OceanQuality=海洋质量
+High=高
+Medium=中
+Low=低
+ColorFilter=滤镜效果
+AmbientOcclusion=环境光散射
+Bloom=全屏泛光
+WorldObjects=显示世界物体
+MusicInCombat=战斗时播放音乐
+Volume=音量
+Music=音乐
+CrewVoice=船员语音
+CameraSensitivity=视角灵敏度
+Apply=接受
+
+[HELP]
+HelpGeneral=综合
+HelpReference=参考
+HelpWeapons=武器
+HelpNavigation=航海
+HelpMap=地图
+HelpSensors=传感器
+HelpTactics=战术
+HelpDamage=损伤
+HelpCampaign=战役
+LeftMouse=鼠标左键点击
+RightMouse=鼠标右键点击
+MiddleMouse=鼠标中键
+MouseWheel=鼠标滚轮
+ShiftKey=Shift
+ControlKey=Control
+AltKey=Alt
+
+[KEYBIND DISPLAY NAMES: COMMAND=OPTIONS DISPLAYNAME]
+Help=帮助
+
+Rudder Left=垂直舵向左偏转
+Rudder Right=垂直舵向右偏转
+Set Course=设置航向
+Planes Up=水平舵向上偏转
+Planes Down=水平舵向下偏转
+Ballast Up=压载舱增加
+Ballast Down=压载舱减少
+Increase Power=增加推力
+Decrease Power=减少推力
+
+Level Submarine=潜艇姿态归中
+Periscope Depth=潜望镜深度
+Blow Ballast=紧急浮出
+Emergency Deep=紧急深度
+Sonar Mode=主动声呐
+Silent Running=静音航行
+Noisemaker=噪音产生器
+
+ESM Mast=电子支援措施桅杆
+RADAR Mast=雷达桅杆
+Periscope=潜望镜
+Periscope View=潜望镜视角
+Night Vision=夜间视角
+Mark Target=标记目标
+
+Tactical Map=战术地图
+Centre Map=地图归中
+Auto Centre Map=自动调整地图
+
+Conditions=海况
+Signature=信号探测
+Damage Report=损害管制
+Context Menu Previous=前一项
+Context Menu Next=后一项
+Context Menu Set=选中
+Next Contact=下一个目标
+Recognition Manual=识别手册
+Helm Controls=航行控制
+Dive Controls=深度控制
+Sensor Controls=传感器控制
+Expand Log=展开消息
+
+Next Tube=下一个发射管
+Load Tube=装填发射管
+Stores=武器储存
+Fire Tube=发射管开火
+Set Waypoint=设定路径点
+Edit Waypoint=编辑路径点
+
+Weapon Homing=武器制导
+Weapon Attack=武器攻击
+Weapon Depth=武器深度
+Activate Torpedo=启动鱼雷制导
+Cut Wire=切断导线
+Steer Torpedo Left=鱼雷左转
+Steer Torpedo Right=鱼雷右转
+Steer Torpedo Shallow=鱼雷上浮
+Steer Torpedo Deep=鱼雷下潜
+
+Time Compression=时间压缩
+Hide HUD=隐藏HUD
+Event Camera=事件视角 开/关
+
+Zoom In=视角拉近
+Zoom Out=视角拉远
+
+Camera Left=视角左移
+Camera Right=视角右移
+Camera Up=视角上移
+Camera Down=视角下移
+Camera To Player=切换至玩家视角
+Camera To Selected Contact=切换至目标视角
+Camera To Weapon=切换至武器视角
+Camera To Aircraft=切换至飞行器视角
+Camera To Scenery=切换至场景视角
+Drag Camera=手动改变视角
+Still Camera=固定视角
+
+Patrol Speed=巡航速度
+Flank Speed=最高速度
+Briefing=简报
+
+Museum Next=下一个
+Museum Previous=上一个
+
+Continue=继续
+Cancel or Quit=取消或退出

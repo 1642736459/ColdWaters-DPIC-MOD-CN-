@@ -1,0 +1,12 @@
+Image=campaign/images/pact naval 1
+MissionLocation=挪威海域
+Briefing=阻止苏联舰队对冰岛发动两栖攻击
+Briefing=敌人来势汹汹，拿出你的全部力量
+Briefing=
+Briefing=主要目标：
+Briefing=击沉敌舰
+
+
+
+
+

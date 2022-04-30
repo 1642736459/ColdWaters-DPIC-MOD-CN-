@@ -1,0 +1,9 @@
+Image=campaign/images/pact surface raiders 3
+MissionLocation=扬马延岛北部海域
+Briefing=你藏在扬马延岛北部海域，敌方未能发现
+Briefing=敌方一支大型运输船队正迫近该岛，打他们一个措手不及
+Briefing=
+Briefing=主要目标：
+Briefing=击沉所有护航战舰，击沉运输商船
+
+

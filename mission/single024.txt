@@ -1,0 +1,7 @@
+Image=campaign/images/nato naval 1
+MissionLocation=德国北部
+Briefing=美国航母战斗群前往卑尔根，途中发现了一个ESM信号
+Briefing=需要你前往确认
+Briefing=
+Briefing=主要目标：
+Briefing=小心行事，避免被发现

@@ -1,0 +1,9 @@
+Image=campaign/images/pact warship tender 1
+MissionLocation=冰岛西部
+Briefing=你的任务是要拦截一支将要前往北大西洋的补给舰队
+Briefing=它们将去那里支援苏联的反护航队行动
+Briefing=在几天的风平浪静中的搜索过后
+Briefing=声呐员报告了一个接触
+Briefing=
+Briefing=主要目标：
+Briefing=定位并击沉所有船只

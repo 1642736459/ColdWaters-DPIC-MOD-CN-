@@ -1,0 +1,9 @@
+Image=campaign/images/trident.jpg
+MissionLocation=北大西洋
+Briefing=苏联核潜艇已发射弹道导弹了
+Briefing=你被命令立即进行报复性核打击
+Briefing=装载10枚战斧巡航导弹（对地）
+Briefing=将10枚战斧巡航导弹发射至目标区域（对地）
+Briefing=
+Briefing=主要目标：
+Briefing=击中目标

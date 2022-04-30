@@ -1,0 +1,183 @@
+ImageBackground=campaign/images/nato naval 1
+ImagePosition=160,-1026
+ImageHeight=450
+Image=language/help_images/briefing.png
+ImagePosition=160,-1642
+ImageHeight=450
+Image=language/help_images/leave_combat.png
+[/Image]
+<size=24><color=maroon><b>概述</b></color></size>
+任何时候按下<KEY:Help>都能打开帮助--一个内容丰富的《冰冷海域》的游戏手册，手册会自动翻开与你当前情况最相关的页面。
+
+所有用户界面的互动都是用<LEFTCLICK>进行的。
+
+再次按下<KEY:Help>或用右上角的<b><color=maroon>X</color></b>关闭帮助。
+
+
+<size=24><color=maroon><b>欢迎来到《冰冷海域》</b></color></size>
+1947年到1991年世界处于冷战之中，这是一个各国军费开支较高，地缘政治气氛紧张，两个超级大国--美国和苏联争霸的时代。虽然世界一度非常危险，但幸好全面战争没有爆发。如果战争爆发会如何呢？
+
+《冰冷海域》中，在冷战变为热战时，你是一艘核潜艇的指挥官。你的关注点不是潜艇操作的细节，而是战术选择，这将决定任务的结果，还有你和船员们是否能活着回家。
+
+
+<size=24><color=maroon><b>主菜单</b></color></size>
+<DICTIONARY:Training> - 教你如何指挥潜艇的任务
+<DICTIONARY:SingleMission> - 考验你勇气的单项任务
+<DICTIONARY:Campaign> - 指挥潜艇进入战役
+<DICTIONARY:UnitReference> - 这个时代所有船只、飞机和武器的百科全书
+<DICTIONARY:Options> - 修改各种游戏设置
+<DICTIONARY:Credits> - 《冰冷海域》的开发者们
+<DICTIONARY:Cancel or Quit> - 退出游戏
+
+
+<size=24><color=maroon><b>训练和单项任务</b></color></size>
+第一次进入《冰冷海域》时，建议你进行训练。 
+
+打开训练和单项任务的方式：
+在主菜单选择<DICTIONARY:Training>或者<DICTIONARY:SingleMission>。
+
+<b>任务列表</b>
+在列表中选择一个任务，左下方会显示任务简报。
+<DICTIONARY:Start>开始任务。
+<DICTIONARY:Back>返回主菜单。
+
+<b>选择船只</b>
+如果任务中只有一种潜艇可用，你就会被自动指派到此潜艇上。否则按下<KEY:Museum Next>和<KEY:Museum Previous>切换任务中可用的各种潜艇。
+
+你可以用视角控制观察潜艇，在下面的单位介绍部分中了解如何观察。
+
+使用<DICTIONARY:Accept>选中你的船只。
+使用<DICTIONARY:Random>会为你自动分配一艘潜艇。
+使用<DICTIONARY:Back>返回主菜单。
+
+接收到指派船只的信息之后，使用<DICTIONARY:Accept>进入任务简报或<DICTIONARY:Back>返回主菜单。
+
+
+<b>任务简报</b>
+在任何任务之前，任务简报会为你展示当前状况，包括潜艇状态和海况的详细信息。
+
+使用<DICTIONARY:VesselStatus>在任务之前检查、更换武器和查看损伤情况。
+或按下<KEY:Stores>和<KEY:Damage Report>分别打开武器库存和损害管制面板。这些面板在教程中有解释，查看<DICTIONARY:HelpWeapons>和<DICTIONARY:HelpDamage>部分了解更多信息。
+
+使用<DICTIONARY:Battlestations>开始战斗。
+
+或者
+
+选择<DICTIONARY:AttemptClosure>接近敌方并开始战斗。
+在实际战斗中（训练任务除外）,
+可以用来接近到指定的距离并开始战斗。
+<LEFTCLICK>数值以改变距离。
+
+但接近并不一定总是成功，
+可能在接近途中你就会被发现。
+
+因为战斗的情况不同，
+你可能想在远距离发动导弹攻击，
+在近距离发动鱼雷攻击。
+
+
+<b>战斗</b>
+进入你指挥潜艇的3D世界。
+在教程中参考屏幕上的提示（<KEY:Help>）
+了解更多在《冰冷海域》中指挥潜艇的细节。
+
+<b>结束战斗</b>
+按下<KEY:Cancel or Quit>进入任务菜单结束任务。
+或者，航行到地图的边界（红色边界）将自动打开
+任务菜单，此时任务菜单的唯一选项是离开战斗区域。
+
+进入任务菜单会暂停战斗。
+
+进入之后有以下选项可用：
+1）<DICTIONARY:AbandonShip>
+你的潜艇未被摧毁并且在逃生深度之上时可以尝试。如果你位于逃生深度以下，选择此项不会发生任何事。
+
+2）<DICTIONARY:OptionsHeader>
+打开选项修改游戏设置。
+
+3）<DICTIONARY:ExitMission>
+结束战斗并进入行动报告。
+此选项会在你到达地图边界或满足以下条件时可用：
+- 没有敌人能侦察到你，而且你没有目标
+- 15000码内没有导弹或鱼雷
+- 15000码内没有敌军飞机
+- 你的潜艇没有严重进水
+
+指示器会显示你未满足的条件。
+
+4）<DICTIONARY:Back>
+回到战斗
+
+如果你的潜艇被摧毁，战斗界面会立即不可用。
+视角控制和切换视角仍然可用，但你不能再指挥潜艇。
+按下<KEY:Cancel or Quit>进入任务菜单结束任务，使用 
+<DICTIONARY:AbandonShip>（如果可能）或<DICTIONARY:Quit>。
+
+
+<b>行动报告</b>
+战斗结束之后你会立即看到一个总结，包括
+参与战斗的船只以及它们是否被发现、击伤或击沉，
+你潜艇上的武器库存和损伤的子系统也会被展示。
+
+使用<DICTIONARY:Continue>或按下<KEY:Continue>
+关闭行动报告并返回任务列表或继续战役。
+
+
+<size=24><color=maroon><b>单位介绍</b></color></size>
+单位介绍是当前《冰冷海域》中
+所有船只、潜艇、飞机、鱼雷和导弹的百科全书。
+
+按下<KEY:Museum Next>和<KEY:Museum Previous>在单位和武器中切换。
+转动视角：使用<KEY:Drag Camera>或<KEY:Camera Left>
+、<KEY:Camera Right>、<KEY:Camera Up>和<KEY:Camera Down>。
+缩放视角：使用<MOUSEWHEEL>或按下<KEY:Zoom In>和<KEY:Zoom Out>。
+
+<DICTIONARY:Back>会离开单位介绍并返回菜单。
+
+
+<size=24><color=maroon><b>选项</b></color></size>
+下面介绍游戏中选项的作用。
+
+<b>游戏</b>
+<DICTIONARY:DefaultCommanderName> - 在此输入指挥官姓名，会被用于所有单项任务和战役。
+<DICTIONARY:AutoSave> - 仅在战役中生效，离港时、战斗前后自动保存游戏为“Autosave”。
+<DICTIONARY:PlayerMarker> - 在海面上显示一个图标以表示玩家的位置和方向。
+<DICTIONARY:DisableIronman> - 关闭铁人模式，允许战役中使用保存进度。
+<DICTIONARY:HideUnclassified> - 解算值低的目标不显示在视野中，除非被潜望镜侦察到。
+<DICTIONARY:EventCamera> - 视角自动切换到发射的武器、投放武器的飞机和命中的武器上。
+<DICTIONARY:Tooltips> - 如果开启，鼠标停留在一个按钮上时会显示相关的热键。
+<DICTIONARY:Difficulty> - 调节游戏难度。
+<DICTIONARY:WorldScale>* - 水平距离的比例尺。1：4使战斗节奏更快而1：1更真实。不能影响地形。
+<DICTIONARY:SpeedMultiplier>* - 加快鱼雷和船只的航速。较高的值会加快游戏节奏而1是最真实的。
+
+<b>控制</b>
+<DICTIONARY:InvertMouse> - 用鼠标转动视角时反转y轴方向。
+<DICTIONARY:CameraSensitivity> - 调节视角转动的灵敏度。
+<DICTIONARY:DefaultControls> - 所有控制重设为默认方式。
+重设按键 - <LEFTCLICK>一个按键标记它然后按下想要的按键重设，Shift、Control 和 Alt按键可以和其他按键一起使用。
+
+<b>视频</b>
+<DICTIONARY:FullScreen> - 切换全屏模式和窗口模式。
+<DICTIONARY:VSync> - 垂直同步（提高画面质量）。
+<DICTIONARY:Trees> - 在开启地形的情况下显示树木（关闭能提高性能）。
+<DICTIONARY:UnderwaterParticles> - 显示水下的粒子效果。
+<DICTIONARY:ColorFilter> - 启动颜色过滤器提高视觉效果。
+<DICTIONARY:AmbientOcclusion> - 启动环境光散射提高视觉效果。
+<DICTIONARY:Shadows> - 开启阴影提高视觉效果。
+<DICTIONARY:Bloom> - 开启全屏泛光提高视角效果。
+<DICTIONARY:AntiAliasing> - 减少图形边缘的锯齿。
+<DICTIONARY:OceanQuality> - 海洋细节效果（降低能提高性能）。
+<DICTIONARY:HUDSize> - 调整HUD的大小。
+<DICTIONARY:Resolution>* - 切换你的显示器支持的分辨率。
+
+*需要游戏重启或返回主菜单才能生效。
+
+多显示器支持：如果要在多个显示器上运行《冰冷海域》，请把<DICTIONARY:FullScreen>调到关，以窗口模式运行。把窗口拉伸到你要的大小，如果有必要的话，调节<DICTIONARY:HUDSize>。
+
+编辑用户界面：查看安装路径下“ColdWaters_Data/StreamingAssets/default”内的文件了解更多。
+
+<b>音频</b>
+<DICTIONARY:MusicInCombat> - 开关战斗时的音乐。
+<DICTIONARY:Volume> - 所有音效的音量调节。
+<DICTIONARY:Music> - 音乐音量调节。
+<DICTIONARY:CrewVoice> - 船员语言的音量调节。

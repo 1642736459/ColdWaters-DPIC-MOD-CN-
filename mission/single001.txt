@@ -1,0 +1,6 @@
+Image=campaign/images/Belknap+Knox.png
+MissionLocation=冰岛东部, 挪威海海域
+Briefing=你正在迫近敌舰队，敌舰队高度武装，战斗在所难免
+Briefing=
+Briefing=主要目标：
+Briefing=击沉敌舰队

@@ -1,0 +1,13 @@
+﻿Image=campaign/images/_ROROs coming in high seas
+MissionLocation=大西洋
+Briefing=在风平浪静的几天过后，声呐员报告了一个接触
+Briefing=
+Briefing=主要目标：
+Briefing=前往确认接触
+
+
+
+
+
+
+

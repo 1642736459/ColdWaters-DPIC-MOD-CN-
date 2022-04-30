@@ -1,0 +1,8 @@
+Image=campaign/images/nato missile land attack
+MissionLocation=格雷米哈，科拉半岛
+Briefing=在苏联后院内进行巡航导弹打击
+Briefing=装载10枚战斧巡航导弹（对地）
+Briefing=将10枚战斧巡航导弹发射至目标区域（对地）
+Briefing=
+Briefing=主要目标：
+Briefing=击中目标

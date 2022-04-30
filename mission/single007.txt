@@ -1,0 +1,10 @@
+Image=campaign/images/city nuke
+MissionLocation=冰岛附近海域
+Briefing=一艘台风级战略核潜艇，红色十月号，前出到冰岛海域
+Briefing=他极具威胁性，意图对美国发动核打击
+Briefing=他应用诸多隐身技术，并采用了绝密的履带式前进方式
+Briefing=再难侦测，也要找到他
+Briefing=
+Briefing=主要目标：
+Briefing=击沉红色十月号
+

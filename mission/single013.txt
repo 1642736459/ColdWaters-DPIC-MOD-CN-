@@ -1,0 +1,7 @@
+Image=campaign/images/pact naval 2
+MissionLocation=北角海岬附近
+Briefing=在北角附近遭遇了苏联的大型水上打击舰队
+Briefing=其中有一艘基洛夫级战列巡洋舰
+Briefing=
+Briefing=主要目标：
+Briefing=突破敌方舰队的反潜防御，击沉基洛夫级战列巡洋舰

@@ -1,0 +1,6 @@
+NoContact=舰长，\n大副报告：\n我们没有发现接触，可以离开此区域。\n<LEAVESTATUS>\n请下令，长官？
+Contact=舰长，\n大副报告：\n附近有敌军活动，需要远离敌方才能离开此区域。\n<LEAVESTATUS>\n请下令，长官？
+Flooding=舰长，\n大副报告：\n潜艇正在进水，必须控制住进水才能离开此区域。\n<LEAVESTATUS>\n请下令，长官？
+Sinking=舰长，\n大副报告：\n耐压壳破裂！我们严重受损，进水无法控制，正在下沉。\n<LEAVESTATUS>\n请下令，长官？
+Doomed=舰长，\n大副报告：\n耐压壳破裂！我们严重受损，进水无法控制，我们处于逃生深度以下。 与你共同战斗是我的荣幸。\n<LEAVESTATUS>\n请下令，长官？
+OutOfBounds=舰长，\n大副报告：\n\n我们已离开战斗区域。\n<LEAVESTATUS>\n请下令，长官？

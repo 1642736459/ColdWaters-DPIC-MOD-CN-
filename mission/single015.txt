@@ -1,0 +1,9 @@
+Image=campaign/images/pact ssbn 2
+MissionLocation=北极地区
+Briefing=卫星数据显示，
+Briefing=一艘苏联弹道导弹核潜艇正潜伏在其阵地中
+Briefing=被数层水面舰艇与猎杀潜艇保护得严严实实
+Briefing=你必须突破它们的防御，找到那艘战略核潜艇，并且击沉它
+Briefing=
+Briefing=主要目标：
+Briefing=定位并击沉所有的弹道导弹核潜艇

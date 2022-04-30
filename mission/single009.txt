@@ -1,0 +1,7 @@
+Image=campaign/images/212a.jpg
+MissionLocation=挪威海海域
+Briefing=一艘新的巨大的核潜艇下水，是时候展现你的能耐了
+Briefing=有艘敌艇就在附近偷偷侦查，就拿他小试身手吧
+Briefing=
+Briefing=主要目标：
+Briefing=击沉敌艇

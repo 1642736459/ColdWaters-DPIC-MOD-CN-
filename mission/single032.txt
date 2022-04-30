@@ -1,0 +1,9 @@
+Image=campaign/images/pact naval 1
+MissionLocation=挪威海域
+Briefing=你在跟踪和观察俄国的一次重大绝密演习
+Briefing=这次演习涉及他们的新航母战斗群
+Briefing=不幸的是，你的指挥刚刚犯了一个错误
+Briefing=俄国人现在知道你就在附近，并怀着极大的敌意追捕你
+Briefing=
+Briefing=主要目标：
+Briefing=逃脱

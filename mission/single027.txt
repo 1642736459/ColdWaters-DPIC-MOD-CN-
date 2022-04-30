@@ -1,0 +1,6 @@
+Image=campaign/images/nato submarine 2
+MissionLocation=丹麦海峡
+Briefing=你在试图突破丹麦海峡时，声呐报告了一个接触
+Briefing=
+Briefing=主要目标：
+Briefing=确认接触，突破海峡

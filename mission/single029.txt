@@ -1,0 +1,7 @@
+Image=campaign/images/janmayen.jpeg
+MissionLocation=扬马延岛海域
+Briefing=总部已经决定接管扬马延岛
+Briefing=你需要以最佳速度向插入位置前进
+Briefing=
+Briefing=主要目标：
+Briefing=任务部署后，返回基地

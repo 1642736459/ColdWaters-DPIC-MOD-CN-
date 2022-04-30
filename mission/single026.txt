@@ -1,0 +1,11 @@
+Image=campaign/images/pact naval 2
+MissionLocation=雷克雅未克东北部
+Briefing=雷克雅未克报告了一个信号，需要你前往确认
+Briefing=全副武装，谨慎前行
+Briefing=
+Briefing=主要目标：
+Briefing=避免被发现
+
+
+
+

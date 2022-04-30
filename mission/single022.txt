@@ -1,0 +1,8 @@
+Image=campaign/images/pact landing sunk
+MissionLocation=挪威海域
+Briefing=苏联运输舰队正驶向纳尔维克，当你悄无声息地接近时
+Briefing=声纳报告了一次接触
+Briefing=行动务必小心，谨慎前行
+Briefing=
+Briefing=主要目标：
+Briefing=击沉敌船

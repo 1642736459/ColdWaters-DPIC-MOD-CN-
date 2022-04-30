@@ -1,0 +1,10 @@
+Image=campaign/images/sea rescue 1
+MissionLocation=黑海海域，塞瓦斯托波尔
+Briefing=约克城号航空母舰在黑海沉没
+Briefing=当你接近沉船进行营救行动时，声纳报告了一次不寻常的接触
+Briefing=
+Briefing=主要目标：
+Briefing=接近可疑目标，避免被发现
+
+
+

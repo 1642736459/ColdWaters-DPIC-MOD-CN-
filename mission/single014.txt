@@ -1,0 +1,9 @@
+Image=campaign/images/pact surface raiders 2
+MissionLocation=丹麦海峡，冰岛附近
+Briefing=你碰上了一支苏联公海反潜舰队
+Briefing=其中包括一艘莫斯科级直升机航母
+Briefing=它们的目标是进入北大西洋
+Briefing=猎杀我方搭载有北极星弹道导弹的核潜艇
+Briefing=
+Briefing=主要目标：
+Briefing=击沉莫斯科级直升机航母

@@ -1,0 +1,7 @@
+Image=campaign/images/pact surface raiders 3
+MissionLocation=波罗的海
+Briefing=瑞典报告了一个可疑目标，寻求你的帮助
+Briefing=前往确认目标，目标可能充满敌意
+Briefing=
+Briefing=主要目标：
+Briefing=击沉可疑目标，成功撤退

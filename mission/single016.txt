@@ -1,0 +1,6 @@
+Image=campaign/images/nato insertion 3
+MissionLocation=纳尔维克附近
+Briefing=你的任务是运载一支特种部队渗透进入纳尔维克地区
+Briefing=
+Briefing=主要目标：
+Briefing=避免被发现完成任务

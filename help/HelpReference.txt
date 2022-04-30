@@ -1,0 +1,195 @@
+ImageBackground=campaign/images/pact submarine tender 2
+ImagePosition=15,-947
+ImageHeight=260
+Image=language/help_images/tube_settings.png
+ImagePosition=15,-1255
+ImageHeight=260
+Image=language/help_images/tacmap_icons.png
+ImagePosition=15,-1575
+ImageHeight=260
+Image=language/help_images/stratmap.png
+ImagePosition=15,-1915
+ImageHeight=260
+Image=language/help_images/navigation_status.png
+ImagePosition=15,-2205
+ImageHeight=260
+Image=language/help_images/sensor_status.png
+ImagePosition=15,-2515
+ImageHeight=260
+Image=language/help_images/damage_status.png
+[/Image]
+<size=24><color=maroon><b>控制</b></color></size>
+所有控制选项可以在<DICTIONARY:Options>中重设。
+
+<b>综合</b>||<b>航海</b>|
+<DICTIONARY:Help>|<KEY:Help>|<DICTIONARY:Increase Power>|<KEY:Increase Power>
+<DICTIONARY:Cancel or Quit>|<KEY:Cancel or Quit>|<DICTIONARY:Decrease Power>|<KEY:Decrease Power>
+<DICTIONARY:Continue>|<KEY:Continue>|<DICTIONARY:Rudder Left>|<KEY:Rudder Left>
+<DICTIONARY:Time Compression>|<KEY:Time Compression>|<DICTIONARY:Rudder Right>|<KEY:Rudder Right>
+<DICTIONARY:Hide HUD>|<KEY:Hide HUD>|<DICTIONARY:Planes Up>|<KEY:Planes Up>
+||<DICTIONARY:Planes Down>|<KEY:Planes Down>
+<b>单位介绍和船只选择</b>||<DICTIONARY:Ballast Up>|<KEY:Ballast Up>
+<DICTIONARY:Museum Next>|<KEY:Museum Next>|<DICTIONARY:Ballast Down>|<KEY:Ballast Down>
+<DICTIONARY:Museum Previous>|<KEY:Museum Previous>|<DICTIONARY:Blow Ballast>|<KEY:Blow Ballast>
+||<DICTIONARY:Level Submarine>|<KEY:Level Submarine>
+<b>视角控制</b>|||
+<DICTIONARY:Camera Left>|<KEY:Camera Left>|<b>传感器、地图和桅杆</b>|
+<DICTIONARY:Camera Right>|<KEY:Camera Right>|<DICTIONARY:Tactical Map>|<KEY:Tactical Map>
+<DICTIONARY:Camera Up>|<KEY:Camera Up>|<DICTIONARY:Centre Map>|<KEY:Centre Map>
+<DICTIONARY:Camera Down>|<KEY:Camera Down>|<DICTIONARY:Auto Centre Map>|<KEY:Auto Centre Map>
+<DICTIONARY:Zoom In>|<KEY:Zoom In>|<DICTIONARY:Next Contact>|<KEY:Next Contact>
+<DICTIONARY:Zoom Out>|<KEY:Zoom Out>|<DICTIONARY:Sonar Mode>|<KEY:Sonar Mode>
+<DICTIONARY:Drag Camera>|<KEY:Drag Camera>|<DICTIONARY:Periscope>|<KEY:Periscope>
+<DICTIONARY:Still Camera>|<KEY:Still Camera>|<DICTIONARY:Periscope View>|<KEY:Periscope View>
+<DICTIONARY:Camera To Player>|<KEY:Camera To Player>|<DICTIONARY:Night Vision>|<KEY:Night Vision>
+<DICTIONARY:Camera To Selected Contact>|<KEY:Camera To Selected Contact>|<DICTIONARY:Mark Target>|<KEY:Mark Target>
+<DICTIONARY:Camera To Weapon>|<KEY:Camera To Weapon>|<DICTIONARY:ESM Mast>|<KEY:ESM Mast>
+<DICTIONARY:Camera To Aircraft>|<KEY:Camera To Aircraft>|<DICTIONARY:RADAR Mast>|<KEY:RADAR Mast>
+<DICTIONARY:Camera To Scenery>|<KEY:Camera To Scenery>||
+<DICTIONARY:Event Camera>|<KEY:Event Camera>|<b>面板</b>|
+||<DICTIONARY:Conditions>|<KEY:Conditions>
+<b>武器</b>||<DICTIONARY:Signature>|<KEY:Signature>
+<DICTIONARY:Fire Tube>|<KEY:Fire Tube>|<DICTIONARY:Stores>|<KEY:Stores>
+<DICTIONARY:Set Waypoint>|<KEY:Set Waypoint>|<DICTIONARY:Damage Report>|<KEY:Damage Report>
+<DICTIONARY:Edit Waypoint>|<KEY:Edit Waypoint>|<DICTIONARY:Context Menu Previous>|<KEY:Context Menu Previous>
+<DICTIONARY:Next Tube>|<KEY:Next Tube>|<DICTIONARY:Context Menu Next>|<KEY:Context Menu Next>
+<DICTIONARY:Load Tube>|<KEY:Load Tube>|<DICTIONARY:Context Menu Set>|<KEY:Context Menu Set>
+<DICTIONARY:Weapon Homing>|<KEY:Weapon Homing>||
+<DICTIONARY:Weapon Attack>|<KEY:Weapon Attack>|<b>战术</b>|
+<DICTIONARY:Weapon Depth>|<KEY:Weapon Depth>|<DICTIONARY:Silent Running>|<KEY:Silent Running>
+<DICTIONARY:Activate Torpedo>|<KEY:Activate Torpedo>|<DICTIONARY:Noisemaker>|<KEY:Noisemaker>
+<DICTIONARY:Cut Wire>|<KEY:Cut Wire>||
+<DICTIONARY:Steer Torpedo Left>|<KEY:Steer Torpedo Left>|<b>战略地图</b>|
+<DICTIONARY:Steer Torpedo Right>|<KEY:Steer Torpedo Right>|<DICTIONARY:Patrol Speed>|<KEY:Patrol Speed>
+<DICTIONARY:Steer Torpedo Shallow>|<KEY:Steer Torpedo Shallow>|<DICTIONARY:Flank Speed>|<KEY:Flank Speed>
+<DICTIONARY:Steer Torpedo Deep>|<KEY:Steer Torpedo Deep>|<DICTIONARY:Briefing>|<KEY:Briefing>
+
+
+<size=24><color=maroon><b>发射管设置</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=24><color=maroon><b>地图图标</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=24><color=maroon><b>战略地图图标</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=24><color=maroon><b>状态图标</b></color></size>
+<b>航海</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>传感器</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>损伤&警报</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=24><color=maroon><b>船只类别</b></color></size>
+LST			坦克登陆舰
+AS			潜艇补给舰
+AOR		燃油补给舰
+AE			军火船
+AP			运输船
+FF			护卫舰
+FFG			导弹护卫舰
+DD			驱逐舰
+DDG		导弹驱逐舰
+CL			轻巡洋舰
+CG			导弹巡洋舰
+CGN		核动力导弹巡洋舰
+CGH		导弹直升机航母
+CVGH		导弹直升机/固定翼航母
+SS			潜艇
+SSK			猎艇潜艇
+SSG			导弹潜艇
+SSN			核潜艇
+SSGN		巡航导弹核潜艇
+SSBN		弹道导弹核潜艇
+
+BIO			生物

@@ -1,0 +1,9 @@
+Image=campaign/images/pact wolfpack 2
+MissionLocation=北大西洋GIUK缺口
+Briefing=一艘巨大的奥斯卡级巡航导弹核潜艇
+Briefing=正试图从北约反潜巡逻舰队眼下溜走
+Briefing=并由此逃入北大西洋航线
+Briefing=可能会有强力的攻击型潜艇为其护航，请谨慎行动
+Briefing=
+Briefing=主要目标：
+Briefing=定位并击沉敌人核潜艇

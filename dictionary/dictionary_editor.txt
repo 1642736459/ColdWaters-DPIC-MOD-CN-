@@ -1,0 +1,44 @@
+﻿[MAP NAMES]
+MapName=全球大洋 中俄
+MapName=北大西洋 1984 俄国
+MapName=北大西洋 1968 俄国
+MapName=全球大洋 北约
+MapName=北大西洋 1984 北约
+MapName=北大西洋 1968 北约
+
+[ERRORS & WARNINGS]
+NoGroups=错误：没有选用船只。在敌军面板的“使用战斗群”选项中至少选择一个。
+MinZero=错误：船只最小数量总和必须至少为1。在敌军面板将选用战斗群的最少船只数量设置为1以上。
+NoShips=错误：选用的战斗群没有船只。在敌军面板（点击查看/编辑船只）添加至少一种敌舰到选用的战斗群。
+MaxHigh=错误：船只最大数量总和大于15。在敌军面板将最大船只数量减少至15以下。
+FileExported=保存文件：
+FileExists=错误：任务文件已存在
+
+[INTERFACE]
+Back=返回
+Cancel=取消
+Start=开始
+Map=地图
+Vessels=单位
+UseTerrain=使用地形
+Date=日期
+Time=时间
+PresetEnvironment=使用预设环境
+Weather=天气
+SeaState=海况
+Duct=表面波导
+Layer=温跃层
+PlayerClasses=本家军舰
+Export=输出为文本文件
+Filename=文件名
+MapCoords=地图坐标
+MapHelp=点击并拖动以选取任务区域。确保区域中心有足够水域。
+CruiseSpeed=巡航速度
+GroupTitles=使用战斗群                船只数量                       主动进攻         查看/编辑
+Helicopters=直升机
+Aircraft=固定翼
+Cancel=取消
+Accept=接受
+GroupName=战斗群
+To=到
+ShipPreviewName=点击船只预览

@@ -1,0 +1,23 @@
+Text=
+Text=舰长，
+Text=我们发现了一个新的声呐接触，方位<BEARING>，标记为Sierra 1。
+Text=
+Text=大副报告：
+Text=     我方深度：<DEPTH>
+Text=     我方航向：<HEADING>
+Text=     我方航速：<SPEED>
+Text=
+Text=<DEPLOYMENTZONE>请下令，长官？
+
+
+Text2=
+Text2=
+Text2=
+Text2=
+Text2=当地海况：
+Text2=     <CONDITIONS>
+Text2=     <SURFACEDUCT>表面波导
+Text2=     <STRENGTH>温跃层 <LAYERDEPTH>
+//Text2=   水深<WATERDEPTH>
+
+TextNoContact=没有接触，按原航向前进。
